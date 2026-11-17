@@ -1,0 +1,28 @@
+# Build output
+/build/
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+
+# Generated database files
+*.db
+*.wal
+
+# IDE and editor files
+.vscode/
+.idea/
+*.user
+*.suo
+
+# CMake-generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# OS files
+.DS_Store
+Thumbs.db
